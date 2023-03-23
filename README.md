@@ -1,3 +1,9 @@
+<h1>
+This is not my content and I don't own anything. 
+I import this project just for my practice.
+link for original <a>https://github.com/dinanathsj29/javascript-exercise-beginners.git</a>
+</h1>
+
 <p align="center">
     <img src="_images-javascript-exercise-beginners/javascript-logo-4.png" alt="JavaScript logo" title="JavaScript beginners exercises" width="200" />
 </p>
